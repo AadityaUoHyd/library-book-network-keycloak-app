@@ -11,13 +11,13 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-    - [Backend (library-book-network-backend)](#library-book-network-backend)
-    - [Frontend (library-book-network-frontend)](#library-book-network-frontend)
-- [Learning Objectives](#learning-objectives)
-- [Getting Started](#getting-started)
+- [Overview](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#overview)
+- [Features](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#features)
+- [Technologies Used](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#technologies-used)
+    - [Backend (library-book-network-backend)](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#library-book-network-backend)
+    - [Frontend (library-book-network-frontend)](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#library-book-network-frontend)
+- [Learning Objectives](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#learning-objectives)
+- [Getting Started](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app#getting-started)
 
 ## Overview
 
@@ -89,5 +89,5 @@ By building this project, one can learn:
 
 To get started with the Library Book Network project, follow the setup instructions in the respective directories:
 
-- [Backend Setup Instructions](/library-book-network-backend/README.md)
-- [Frontend Setup Instructions](/library-book-network-frontend/README.md)
+- [Backend Setup Instructions](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app/library-book-network-backend#readme)
+- [Frontend Setup Instructions](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/tree/master/library-book-network-keycloack-app/library-book-network-frontend#readme)
