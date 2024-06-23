@@ -1,4 +1,4 @@
-#LIBRARY BOOK NETWORK
+# LIBRARY BOOK NETWORK
 For Code, go inside `library-book-network-keycloack-app` folder.
 
 ## Demo of LBN project, When you hit `http://localhost:4200/` at browser =>
@@ -12,7 +12,7 @@ For Code, go inside `library-book-network-keycloack-app` folder.
 ![](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/blob/master/4loginWithCred.png)
 - User profile page
 ![](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/blob/master/profile.png)
-- To add book to library. Click on 'Add Book' button.
+- To add book to library. Click on 'New Book' button.
 ![](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/blob/master/5add%20book.png)
 - Add details of book to this feed.
 ![](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/blob/master/manage-book.png)
