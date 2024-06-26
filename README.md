@@ -36,4 +36,3 @@ For Code, go inside `library-book-network-keycloack-app` folder.
 ![](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/blob/master/bookReturnApprovedByOwner.png)
 - Now 'santosh' user can see his returning of book got approved. Book is now available to borrow by any user again.
 ![](https://github.com/AadityaUoHyd/library-book-network-keycloak-app/blob/master/userCanSeeBookReturnApproved.png)
-- 
